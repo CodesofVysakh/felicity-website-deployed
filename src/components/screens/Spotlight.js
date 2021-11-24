@@ -204,17 +204,19 @@ const MenuButtonLi = styled.li`
     }
 `;
 const Overlay = styled.div`
- @media all and (max-width: 768px){
-     background: rgba(0,0,0,0.6);
-     position: absolute;
-     top:0;
-     left: 0;
-     opacity: ${({isActive}) => (isActive ? '1' : '0')};
-     width: 100vw;
-     height: 100vh;
-     transition: 0.3s ease-in-out;
-     z-index: 1;
-    }
+    display: none;
+    @media all and (max-width: 768px){
+        display: block;
+        background: rgba(0,0,0,0.6);
+        position: absolute;
+        top:0;
+        left: 0;
+        opacity: ${({isActive}) => (isActive ? '1' : '0')};
+        width: 100vw;
+        height: 100vh;
+        transition: 0.3s ease-in-out;
+        z-index: ${({isActive}) => (isActive ? '1' : '-3')};
+        }
 `;
 const Content = styled.div`
     text-align: center;
