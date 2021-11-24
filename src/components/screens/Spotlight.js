@@ -272,7 +272,7 @@ const Button = styled.a`
 const Bottom = styled.div`
     background: #fff;
     color: #000;
-    padding: 50px 80px 0;
+    padding: 50px 80px 5px;
     border-radius: 45px 45px 0 0;
     @media all and (max-width: 1080px){
         padding: 40px 60px 0;
