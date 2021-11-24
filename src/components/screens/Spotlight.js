@@ -275,10 +275,10 @@ const Bottom = styled.div`
     padding: 50px 80px 5px;
     border-radius: 45px 45px 0 0;
     @media all and (max-width: 1080px){
-        padding: 40px 60px 0;
+        padding: 40px 60px 5px;
     }
     @media all and (max-width: 980px){
-        padding: 30px 30px 0;
+        padding: 30px 30px 5px;
     }
 
 `;
