@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/felicity-website-deployed/static/css/main.add0b8c4.chunk.css",
+    "main.js": "/felicity-website-deployed/static/js/main.2da80c1a.chunk.js",
+    "main.js.map": "/felicity-website-deployed/static/js/main.2da80c1a.chunk.js.map",
+    "runtime-main.js": "/felicity-website-deployed/static/js/runtime-main.bbdd4e0e.js",
+    "runtime-main.js.map": "/felicity-website-deployed/static/js/runtime-main.bbdd4e0e.js.map",
+    "static/css/2.e9738d16.chunk.css": "/felicity-website-deployed/static/css/2.e9738d16.chunk.css",
+    "static/js/2.9bc20253.chunk.js": "/felicity-website-deployed/static/js/2.9bc20253.chunk.js",
+    "static/js/2.9bc20253.chunk.js.map": "/felicity-website-deployed/static/js/2.9bc20253.chunk.js.map",
+    "static/js/3.dfdec906.chunk.js": "/felicity-website-deployed/static/js/3.dfdec906.chunk.js",
+    "static/js/3.dfdec906.chunk.js.map": "/felicity-website-deployed/static/js/3.dfdec906.chunk.js.map",
+    "index.html": "/felicity-website-deployed/index.html",
+    "static/css/2.e9738d16.chunk.css.map": "/felicity-website-deployed/static/css/2.e9738d16.chunk.css.map",
+    "static/css/main.add0b8c4.chunk.css.map": "/felicity-website-deployed/static/css/main.add0b8c4.chunk.css.map",
+    "static/js/2.9bc20253.chunk.js.LICENSE.txt": "/felicity-website-deployed/static/js/2.9bc20253.chunk.js.LICENSE.txt",
+    "static/media/about_img.d39dad55.jpg": "/felicity-website-deployed/static/media/about_img.d39dad55.jpg",
+    "static/media/banner.c6721372.jpg": "/felicity-website-deployed/static/media/banner.c6721372.jpg",
+    "static/media/img1.2aff633f.jpg": "/felicity-website-deployed/static/media/img1.2aff633f.jpg",
+    "static/media/img2.508a98af.jpg": "/felicity-website-deployed/static/media/img2.508a98af.jpg",
+    "static/media/img3.427ad1fa.jpg": "/felicity-website-deployed/static/media/img3.427ad1fa.jpg",
+    "static/media/img4.c0b3935d.jpg": "/felicity-website-deployed/static/media/img4.c0b3935d.jpg",
+    "static/media/slick-theme.css": "/felicity-website-deployed/static/media/slick.c94f7671.ttf",
+    "static/media/tes_bg.d16e6a4c.jpg": "/felicity-website-deployed/static/media/tes_bg.d16e6a4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbdd4e0e.js",
+    "static/css/2.e9738d16.chunk.css",
+    "static/js/2.9bc20253.chunk.js",
+    "static/css/main.add0b8c4.chunk.css",
+    "static/js/main.2da80c1a.chunk.js"
+  ]
+}
